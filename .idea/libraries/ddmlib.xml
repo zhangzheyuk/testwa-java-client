@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ddmlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ddmlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-18.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
